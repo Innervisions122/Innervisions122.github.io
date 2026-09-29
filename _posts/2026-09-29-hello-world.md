@@ -1,6 +1,6 @@
 ---
 title: Hello World：GPT 不会说人话之证明
-date: 2026-09-29 16:40:00 +0800
+date: 2026-09-28 16:40:00 +0800
 categories: [随笔]
 tags: [Hello World, 博客, 学习]
 ---
